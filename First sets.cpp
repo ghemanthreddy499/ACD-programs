@@ -16,7 +16,7 @@ main()
     {
         printf("Enter productions Number %d : ",i+1);
         scanf(" %s",productionSet[i]);
-    }
+     }
     do
     {
         printf("\n Find the FIRST of  :");
